@@ -23,21 +23,21 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="md:my-20 my-10 ">
+      <div className="md:my-20 my-10 mx-8">
         <h1 className="text-center md:text-5xl text-3xl font-bold text-error ">Product Category</h1>
 
-        <div className="grid md:grid-cols-4 ml-12 gap-10 mt-15">
+        <div className="grid md:grid-cols-4 gap-10 mt-15">
 
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                alt="Shoes" />
+                src="https://t4.ftcdn.net/jpg/00/96/91/23/360_F_96912393_et1FLAuWz8H7rU5JU2QvzJ8SHacFHeHm.jpg"
+                alt="Shoes" className="w-full h-full"/>
             </figure>
             <div className="card-body">
 
               <h2 className="card-title">
-                Card Title
+                Shoe Shop
               </h2>
 
               <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -51,13 +51,13 @@ const Home = () => {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                alt="Shoes" />
+                src="https://thumbs.dreamstime.com/b/shopping-cart-supermarket-transition-shelves-30701259.jpg"
+                alt="Shoes" className="w-full h-full" />
             </figure>
             <div className="card-body">
 
               <h2 className="card-title">
-                Card Title
+                Grocery Shop
               </h2>
 
               <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -71,13 +71,13 @@ const Home = () => {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                alt="Shoes" />
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirp2zm_fhNf_2Unj5sGcMB1D_OSSRtAugiA&s"
+                alt="Shoes" className="w-full h-full"/>
             </figure>
             <div className="card-body">
 
               <h2 className="card-title">
-                Card Title
+                Dress Shop
               </h2>
 
               <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -91,13 +91,13 @@ const Home = () => {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                alt="Shoes" />
+                src="https://media.istockphoto.com/id/1073589496/photo/senior-unrecognizable-woman-picking-up-a-red-wallet-from-a-rack-in-a-bags-and-wallets-store.jpg?s=612x612&w=0&k=20&c=wESJSXPXcbpJslHcS6BJbRr1CNgdBMGfLwWdrv2_cnc="
+                alt="Shoes" className="w-full" />
             </figure>
             <div className="card-body">
 
               <h2 className="card-title">
-                Card Title
+                Wallet Shop
               </h2>
 
               <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -111,13 +111,13 @@ const Home = () => {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                alt="Shoes" />
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuqFM5L7OQMSfP1ZOrGj5WML_4i5Mv_mJlQ&s"
+                alt="Shoes" className="w-full" />
             </figure>
             <div className="card-body">
 
               <h2 className="card-title">
-                Card Title
+                Toys Shop
               </h2>
 
               <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -131,13 +131,13 @@ const Home = () => {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                alt="Shoes" />
+                src="https://media.istockphoto.com/id/1465543112/photo/in-a-musical-instrument-store.jpg?s=612x612&w=0&k=20&c=LyyDfpTgfuujfMB_LHlV2L7-Eeyu3h6UXgiSCVWH5Mk="
+                alt="Shoes" className="w-full h-full"/>
             </figure>
             <div className="card-body">
 
               <h2 className="card-title">
-                Card Title
+                Guitar Shop
               </h2>
 
               <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -151,13 +151,13 @@ const Home = () => {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                alt="Shoes" />
+                src="https://arnolfini.org.uk/app/uploads/2022/09/LoResArnolfini2022LisaWhitingPhoto-56.jpg"
+                alt="Shoes" className="w-full" />
             </figure>
             <div className="card-body">
 
               <h2 className="card-title">
-                Card Title
+                Books Shop
               </h2>
 
               <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>
@@ -171,13 +171,13 @@ const Home = () => {
           <div className="card bg-base-100 w-96 shadow-sm">
             <figure>
               <img
-                src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
-                alt="Shoes" />
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlc-5R1o4yLYiYSSXRZrLBHhR8y-UJ8pTiw&s"
+                alt="Shoes" className="w-full"/>
             </figure>
             <div className="card-body">
 
               <h2 className="card-title">
-                Card Title
+                Fruits Shop
               </h2>
 
               <p>A card component has a figure, a body part, and inside body there are title and actions parts</p>

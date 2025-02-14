@@ -9,7 +9,6 @@ const Products = () => {
                     {/* head */}
                     <thead>
                         <tr>
-                            <th></th>
                             <th>Name</th>
                             <th>Category</th>
                             <th>Price</th>
@@ -18,9 +17,7 @@ const Products = () => {
                     </thead>
                     <tbody>
                         {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
+                        <tr> 
                             <td>
                                 <div className="flex items-center gap-3">
                                     <div className="avatar">
@@ -28,7 +25,7 @@ const Products = () => {
 
 
                                             <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
+                                                src="https://t4.ftcdn.net/jpg/00/96/91/23/360_F_96912393_et1FLAuWz8H7rU5JU2QvzJ8SHacFHeHm.jpg"
                                                 alt="Avatar Tailwind CSS Component" />
 
 
@@ -36,7 +33,7 @@ const Products = () => {
                                     </div>
                                     <div>
 
-                                        <div>Yancy Tear</div>
+                                        <div>Shoes</div>
 
 
                                     </div>
@@ -44,19 +41,17 @@ const Products = () => {
                             </td>
                             <td>
 
-                                <p> Vagitables</p>
+                                <p>Fashion</p>
 
 
                             </td>
-                            <td>Indigo</td>
+                            <td>2,000tk</td>
                             <th>
                                 <button className="btn btn-ghost btn-xs">details</button>
                             </th>
                         </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
+                        {/* row 2*/}
+                        <tr> 
                             <td>
                                 <div className="flex items-center gap-3">
                                     <div className="avatar">
@@ -64,7 +59,7 @@ const Products = () => {
 
 
                                             <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
+                                                src="https://thumbs.dreamstime.com/b/shopping-cart-supermarket-transition-shelves-30701259.jpg"
                                                 alt="Avatar Tailwind CSS Component" />
 
 
@@ -72,7 +67,7 @@ const Products = () => {
                                     </div>
                                     <div>
 
-                                        <div>Yancy Tear</div>
+                                        <div>Tometo</div>
 
 
                                     </div>
@@ -80,19 +75,17 @@ const Products = () => {
                             </td>
                             <td>
 
-                                <p> Vagitables</p>
+                                <p>Grocery</p>
 
 
                             </td>
-                            <td>Indigo</td>
+                            <td>35tk</td>
                             <th>
                                 <button className="btn btn-ghost btn-xs">details</button>
                             </th>
                         </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
+                          {/* row 3*/}
+                          <tr> 
                             <td>
                                 <div className="flex items-center gap-3">
                                     <div className="avatar">
@@ -100,7 +93,7 @@ const Products = () => {
 
 
                                             <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
+                                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTirp2zm_fhNf_2Unj5sGcMB1D_OSSRtAugiA&s"
                                                 alt="Avatar Tailwind CSS Component" />
 
 
@@ -108,7 +101,7 @@ const Products = () => {
                                     </div>
                                     <div>
 
-                                        <div>Yancy Tear</div>
+                                        <div>Shirt</div>
 
 
                                     </div>
@@ -116,19 +109,17 @@ const Products = () => {
                             </td>
                             <td>
 
-                                <p> Vagitables</p>
+                                <p>Fashion</p>
 
 
                             </td>
-                            <td>Indigo</td>
+                            <td>1,500tk</td>
                             <th>
                                 <button className="btn btn-ghost btn-xs">details</button>
                             </th>
                         </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
+                          {/* row 4*/}
+                          <tr> 
                             <td>
                                 <div className="flex items-center gap-3">
                                     <div className="avatar">
@@ -136,7 +127,7 @@ const Products = () => {
 
 
                                             <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
+                                                src="https://media.istockphoto.com/id/1073589496/photo/senior-unrecognizable-woman-picking-up-a-red-wallet-from-a-rack-in-a-bags-and-wallets-store.jpg?s=612x612&w=0&k=20&c=wESJSXPXcbpJslHcS6BJbRr1CNgdBMGfLwWdrv2_cnc="
                                                 alt="Avatar Tailwind CSS Component" />
 
 
@@ -144,7 +135,7 @@ const Products = () => {
                                     </div>
                                     <div>
 
-                                        <div>Yancy Tear</div>
+                                        <div>Wallet</div>
 
 
                                     </div>
@@ -152,19 +143,17 @@ const Products = () => {
                             </td>
                             <td>
 
-                                <p> Vagitables</p>
+                                <p>Fashion</p>
 
 
                             </td>
-                            <td>Indigo</td>
+                            <td>500tk</td>
                             <th>
                                 <button className="btn btn-ghost btn-xs">details</button>
                             </th>
                         </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
+                          {/* row 5*/}
+                          <tr> 
                             <td>
                                 <div className="flex items-center gap-3">
                                     <div className="avatar">
@@ -172,7 +161,7 @@ const Products = () => {
 
 
                                             <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
+                                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCuqFM5L7OQMSfP1ZOrGj5WML_4i5Mv_mJlQ&s"
                                                 alt="Avatar Tailwind CSS Component" />
 
 
@@ -180,7 +169,7 @@ const Products = () => {
                                     </div>
                                     <div>
 
-                                        <div>Yancy Tear</div>
+                                        <div>Toys</div>
 
 
                                     </div>
@@ -188,19 +177,17 @@ const Products = () => {
                             </td>
                             <td>
 
-                                <p> Vagitables</p>
+                                <p>Toys</p>
 
 
                             </td>
-                            <td>Indigo</td>
+                            <td>300tk</td>
                             <th>
                                 <button className="btn btn-ghost btn-xs">details</button>
                             </th>
                         </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
+                          {/* row 6*/}
+                          <tr> 
                             <td>
                                 <div className="flex items-center gap-3">
                                     <div className="avatar">
@@ -208,7 +195,7 @@ const Products = () => {
 
 
                                             <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
+                                                src="https://media.istockphoto.com/id/1465543112/photo/in-a-musical-instrument-store.jpg?s=612x612&w=0&k=20&c=LyyDfpTgfuujfMB_LHlV2L7-Eeyu3h6UXgiSCVWH5Mk="
                                                 alt="Avatar Tailwind CSS Component" />
 
 
@@ -216,7 +203,7 @@ const Products = () => {
                                     </div>
                                     <div>
 
-                                        <div>Yancy Tear</div>
+                                        <div>Guitar</div>
 
 
                                     </div>
@@ -224,19 +211,17 @@ const Products = () => {
                             </td>
                             <td>
 
-                                <p> Vagitables</p>
+                                <p>Instruments</p>
 
 
                             </td>
-                            <td>Indigo</td>
+                            <td>12,000tk</td>
                             <th>
                                 <button className="btn btn-ghost btn-xs">details</button>
                             </th>
                         </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
+                          {/* row 7*/}
+                          <tr> 
                             <td>
                                 <div className="flex items-center gap-3">
                                     <div className="avatar">
@@ -244,7 +229,7 @@ const Products = () => {
 
 
                                             <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
+                                                src="https://arnolfini.org.uk/app/uploads/2022/09/LoResArnolfini2022LisaWhitingPhoto-56.jpg"
                                                 alt="Avatar Tailwind CSS Component" />
 
 
@@ -252,7 +237,7 @@ const Products = () => {
                                     </div>
                                     <div>
 
-                                        <div>Yancy Tear</div>
+                                        <div>Book</div>
 
 
                                     </div>
@@ -260,19 +245,16 @@ const Products = () => {
                             </td>
                             <td>
 
-                                <p> Vagitables</p>
+                                <p>Books</p>
 
 
                             </td>
-                            <td>Indigo</td>
+                            <td>200tk</td>
                             <th>
                                 <button className="btn btn-ghost btn-xs">details</button>
                             </th>
-                        </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
+                        </tr>  {/* row 8*/}
+                        <tr> 
                             <td>
                                 <div className="flex items-center gap-3">
                                     <div className="avatar">
@@ -280,15 +262,14 @@ const Products = () => {
 
 
                                             <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
-                                                alt="Avatar Tailwind CSS Component" />
+                                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlc-5R1o4yLYiYSSXRZrLBHhR8y-UJ8pTiw&s" />
 
 
                                         </div>
                                     </div>
                                     <div>
 
-                                        <div>Yancy Tear</div>
+                                        <div>Fruits</div>
 
 
                                     </div>
@@ -296,155 +277,11 @@ const Products = () => {
                             </td>
                             <td>
 
-                                <p> Vagitables</p>
+                                <p>Fruits</p>
 
 
                             </td>
-                            <td>Indigo</td>
-                            <th>
-                                <button className="btn btn-ghost btn-xs">details</button>
-                            </th>
-                        </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
-                            <td>
-                                <div className="flex items-center gap-3">
-                                    <div className="avatar">
-                                        <div className="mask mask-squircle h-12 w-12">
-
-
-                                            <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
-                                                alt="Avatar Tailwind CSS Component" />
-
-
-                                        </div>
-                                    </div>
-                                    <div>
-
-                                        <div>Yancy Tear</div>
-
-
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-
-                                <p> Vagitables</p>
-
-
-                            </td>
-                            <td>Indigo</td>
-                            <th>
-                                <button className="btn btn-ghost btn-xs">details</button>
-                            </th>
-                        </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
-                            <td>
-                                <div className="flex items-center gap-3">
-                                    <div className="avatar">
-                                        <div className="mask mask-squircle h-12 w-12">
-
-
-                                            <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
-                                                alt="Avatar Tailwind CSS Component" />
-
-
-                                        </div>
-                                    </div>
-                                    <div>
-
-                                        <div>Yancy Tear</div>
-
-
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-
-                                <p> Vagitables</p>
-
-
-                            </td>
-                            <td>Indigo</td>
-                            <th>
-                                <button className="btn btn-ghost btn-xs">details</button>
-                            </th>
-                        </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
-                            <td>
-                                <div className="flex items-center gap-3">
-                                    <div className="avatar">
-                                        <div className="mask mask-squircle h-12 w-12">
-
-
-                                            <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
-                                                alt="Avatar Tailwind CSS Component" />
-
-
-                                        </div>
-                                    </div>
-                                    <div>
-
-                                        <div>Yancy Tear</div>
-
-
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-
-                                <p> Vagitables</p>
-
-
-                            </td>
-                            <td>Indigo</td>
-                            <th>
-                                <button className="btn btn-ghost btn-xs">details</button>
-                            </th>
-                        </tr>
-                        {/* row 1*/}
-                        <tr> <th>
-
-                        </th>
-                            <td>
-                                <div className="flex items-center gap-3">
-                                    <div className="avatar">
-                                        <div className="mask mask-squircle h-12 w-12">
-
-
-                                            <img
-                                                src="https://img.daisyui.com/images/profile/demo/5@94.webp"
-                                                alt="Avatar Tailwind CSS Component" />
-
-
-                                        </div>
-                                    </div>
-                                    <div>
-
-                                        <div>Yancy Tear</div>
-
-
-                                    </div>
-                                </div>
-                            </td>
-                            <td>
-
-                                <p> Vagitables</p>
-
-
-                            </td>
-                            <td>Indigo</td>
+                            <td>350tk</td>
                             <th>
                                 <button className="btn btn-ghost btn-xs">details</button>
                             </th>
